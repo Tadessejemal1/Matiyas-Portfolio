@@ -1,6 +1,5 @@
 /* eslint-disable linebreak-style */
 import React from 'react';
-import IMG6 from '../../assets/Home/img/Capture 2.JPG';
 import IMG3 from '../../assets/Home/img/Image-.JPG';
 import IMG1 from '../../assets/Home/img/Image--.JPG';
 import './Portfolios.css';
@@ -44,13 +43,6 @@ const data = [
     Citation: 'https://www.researchgate.net/publication/357509918_Performance_Analysis_of_Hybrid_Beamforming_Techniques_in_Large_MU_MIMO_Systems',
     demo: 'https://www.upwork.com/att/download/portfolio/persons/uid/1497539725159186432/profile/projects/files/ee9f0a28-e8db-4f17-8e9d-de8d305500dc',
 
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Hotel Booking App',
-    Citation: 'https://www.researchgate.net/publication/357509918_Performance_Analysis_of_Hybrid_Beamforming_Techniques_in_Large_MU_MIMO_Systems',
-    demo: 'https://inspiring-kashata-9d9dfc.netlify.app/',
   },
 ];
 const Portfolios = () => (
