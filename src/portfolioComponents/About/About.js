@@ -93,8 +93,8 @@ function About() {
               </div>
               <div className="skill-bar">
                 <div className="info">
-                  <p>STAAD Pro</p>
-                  <p>92%</p>
+                  <p>AutoCAD</p>
+                  <p>98%</p>
                 </div>
                 <div className="bar">
                   <span className="react" />
@@ -143,9 +143,9 @@ function About() {
                     <h3 className="timeline-date">
                       <i className="fa fa-calendar"> 2013</i>
                     </h3>
-                    <h4 className="timeline-title">Degree</h4>
+                    <h4 className="timeline-title">Bachelor of Science (BSc)</h4>
                     <p className="timeline-text">
-                      I graduated from Adama Science and Technology University with a degree in Civil Engineering.
+                      My degree in civil engineering was obtained from Adama Science and Technology University upon graduation.
                     </p>
                   </div>
                   <div className="timeline-item">
@@ -153,9 +153,9 @@ function About() {
                     <h3 className="timeline-date">
                       <i className="fa fa-calendar"> 2017 - 2019</i>
                     </h3>
-                    <h4 className="timeline-title">Master</h4>
+                    <h4 className="timeline-title">Master of Science (MSc)</h4>
                     <p className="timeline-text">
-                      I graduated with an Master of Science (MS), Civil engineering from Indian Institute of Technology (IIT) Roorkee.
+                      I completed my Master of Science (MS) degree in Civil Engineering from the Indian Institute of Technology (IIT) Roorkee.
                     </p>
                   </div>
                 </div>
@@ -175,7 +175,7 @@ function About() {
                     <h4 className="timeline-title">Design and Supervision Engineer</h4>
                     <p className="timeline-text">
                       {' '}
-                      I have one year&apos;s of work experience in the position of Supervision Engineer from Injebara Town Municipality.
+                      I possess one year of professional experience as a Supervision Engineer at the Injebara Town Municipality.
                       <br />
                     </p>
                   </div>
@@ -187,7 +187,7 @@ function About() {
                     <h4 className="timeline-title">Assistance Lecturer</h4>
                     <p className="timeline-text">
                       {' '}
-                      I have one year&apos;s of work experience in the position of Assistant Lecturer from Debre Tabor University in the Department of Civil Engineering.
+                      I have worked for one year as an assistant lecturer in the civil engineering department at Debre Tabor University.
                       <br />
                     </p>
                   </div>

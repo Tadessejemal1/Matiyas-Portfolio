@@ -61,7 +61,6 @@ img {
 .about-image {
   border-radius: 2rem;
   overflow: hidden;
-  transform: rotate(10deg);
   background-color: aqua;
 }
 
@@ -298,7 +297,7 @@ img {
 }
 
 .skill-bar .bar .react {
-  width: 92%;
+  width: 98%;
   animation: react 3s;
 }
 
