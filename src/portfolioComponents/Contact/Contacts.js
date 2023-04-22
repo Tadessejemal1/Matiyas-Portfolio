@@ -17,7 +17,7 @@ const Contacts = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_d0ujswm', 'template_xjdulsf', form.current, '21BgSF85a2Ofqow0T')
+    emailjs.sendForm('service_almojvh', 'template_xjdulsf', form.current, '21BgSF85a2Ofqow0T')
       .then((result) => {
         // eslint-disable-next-line no-console
         console.log(result.text);

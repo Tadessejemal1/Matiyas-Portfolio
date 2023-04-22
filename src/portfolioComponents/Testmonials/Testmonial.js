@@ -8,9 +8,8 @@ import 'swiper/css';
 import { Pagination } from 'swiper';
 import 'swiper/css/pagination';
 import img1 from '../../assets/Home/img/geeret.jpg';
-// import img2 from '../../assets/Home/img/marco.JPG';
-// import img3 from '../../assets/Home/img/kuma.JPG';
-// import img4 from '../../assets/Home/img/matias.JPG';
+import img2 from '../../assets/Home/img/tibebu.jpg';
+import img3 from '../../assets/Home/img/ermi.JPG';
 
 const clients = [
 
@@ -22,24 +21,18 @@ const clients = [
 
   },
   {
-    Img: img1,
-    review: 'Choosing Tadesse will be an excellent choice as every team needs people who complete their work on time and in a professional manner.',
-    Name: 'Marco Vincio',
+    Img: img2,
+    review: 'Working with Matiyas was wonderful, he is a great communicator, a fast worker, and delivered the project requirements ahead of time - his strong professional and technical skills really shone through.',
+    Name: 'Tibebu Eneyew',
     Work: 'Full-Stack developer',
 
   },
   {
-    Img: img1,
-    review: 'Tadesse is attentive to details and undoubtedly a concise person when it comes to dealing with development and technological issues.',
-    Name: 'Kumilachew Getie',
-    Work: 'IT Engineer',
+    Img: img3,
+    review: 'Matiyas exceeded my expectations! His drafting skill is exactly as I requested and delivered in a timely manner. Excellent communication skills. I will certainly hire Matiyas for future work.',
+    Name: 'Ermias Sisay',
+    Work: 'PhD. Candidate',
 
-  },
-  {
-    Img: img1,
-    review: 'Tadesse showed familiarity with the codebase ,and completed it under the time estimated. I am continuing to work with him on other projects.',
-    Name: 'Matias Aguirre',
-    Work: 'Software Engineer',
   },
 ];
 function Testmonial() {

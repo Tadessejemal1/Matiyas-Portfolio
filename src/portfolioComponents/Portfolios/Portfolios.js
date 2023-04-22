@@ -9,14 +9,14 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Villa Floor Plan',
-    Citation: 'https://www.researchgate.net/publication/357509918_Performance_Analysis_of_Hybrid_Beamforming_Techniques_in_Large_MU_MIMO_Systems',
+    Citation: 'https://www.upwork.com/ab/profiles/search/details/~01567a662b00d4dfd3/profile?q=matiyas%20yenew&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Profile%22,%22modalId%22%3A%221682165603817%22%7D%5D&_navType=slider&pageTitle=Profile',
     demo: 'https://res.cloudinary.com/upwork-fp/image/upload/c_scale,w_1000/v1671890989/profile/portfolio/1342780576422658048/sg2xycraauucnqwom1q4.jpg',
   },
   {
     id: 2,
     image: 'https://www.upwork.com/att/download/portfolio/persons/uid/1342780576422658048/profile/projects/files/88d15b07-0bec-4fb6-89dd-3b5b02b7dd8d',
     title: 'Residential House Design',
-    Citation: 'https://www.researchgate.net/publication/357509918_Performance_Analysis_of_Hybrid_Beamforming_Techniques_in_Large_MU_MIMO_Systems',
+    Citation: 'https://www.upwork.com/ab/profiles/search/details/~01567a662b00d4dfd3/profile?q=matiyas%20yenew&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Profile%22,%22modalId%22%3A%221682165603817%22%7D%5D&_navType=slider&pageTitle=Profile',
     demo: 'https://www.upwork.com/att/download/portfolio/persons/uid/1342780576422658048/profile/projects/files/88d15b07-0bec-4fb6-89dd-3b5b02b7dd8d',
 
   },
@@ -24,7 +24,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: '3D residential house by using Auto cad.',
-    Citation: 'https://www.researchgate.net/publication/357509918_Performance_Analysis_of_Hybrid_Beamforming_Techniques_in_Large_MU_MIMO_Systems',
+    Citation: 'https://www.upwork.com/ab/profiles/search/details/~01567a662b00d4dfd3/profile?q=matiyas%20yenew&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Profile%22,%22modalId%22%3A%221682165603817%22%7D%5D&_navType=slider&pageTitle=Profile',
     demo: 'https://www.upwork.com/att/download/portfolio/persons/uid/1342780576422658048/profile/projects/files/d27d347b-6752-4d84-be83-4670c172b367',
 
   },
@@ -32,7 +32,7 @@ const data = [
     id: 4,
     image: 'https://www.upwork.com/att/download/portfolio/persons/uid/1342780576422658048/profile/projects/files/8b84f3b0-b8f6-4b5c-a22f-ffefc792b2fe',
     title: 'Data Scraping',
-    Citation: 'https://www.researchgate.net/publication/357509918_Performance_Analysis_of_Hybrid_Beamforming_Techniques_in_Large_MU_MIMO_Systems',
+    Citation: 'https://www.upwork.com/ab/profiles/search/details/~01567a662b00d4dfd3/profile?q=matiyas%20yenew&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Profile%22,%22modalId%22%3A%221682165603817%22%7D%5D&_navType=slider&pageTitle=Profile',
     demo: 'https://www.upwork.com/att/download/portfolio/persons/uid/1342780576422658048/profile/projects/files/8b84f3b0-b8f6-4b5c-a22f-ffefc792b2fe',
 
   },
@@ -40,7 +40,7 @@ const data = [
     id: 5,
     image: 'https://www.upwork.com/att/download/portfolio/persons/uid/1497539725159186432/profile/projects/files/ee9f0a28-e8db-4f17-8e9d-de8d305500dc',
     title: 'Budget App',
-    Citation: 'https://www.researchgate.net/publication/357509918_Performance_Analysis_of_Hybrid_Beamforming_Techniques_in_Large_MU_MIMO_Systems',
+    Citation: 'https://www.upwork.com/ab/profiles/search/details/~01567a662b00d4dfd3/profile?q=matiyas%20yenew&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Profile%22,%22modalId%22%3A%221682165603817%22%7D%5D&_navType=slider&pageTitle=Profile',
     demo: 'https://www.upwork.com/att/download/portfolio/persons/uid/1497539725159186432/profile/projects/files/ee9f0a28-e8db-4f17-8e9d-de8d305500dc',
 
   },

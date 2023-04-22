@@ -27,18 +27,17 @@ function About() {
                 <article className="about-card">
                   <FaAward className="about-icon" />
                   <h5>Experience</h5>
-                  <small>3+ Years Working</small>
+                  <small>6+ Years Working</small>
                 </article>
                 <article className="about-card">
                   <VscFolderLibrary className="about-icon" />
                   <h5>Project</h5>
-                  <small>20+</small>
+                  <small>30+</small>
                 </article>
               </div>
               <div className="about-text">
                 <p>
-                  Hello I am a System Engineer | Academic Writing | Latex Expert! I can do anything related to my profession and I can provide technical reviews and assessments of networking, Space communication, Secure Communication, and cyber defense technology development If
-                  you like what you see and have a project you need coded, don&apos;t
+                  Hello I am a Civil Engineer | Quantity Surveyor | Data Collector! I possess the ability to finish projects promptly, within budget, and meeting the necessary standards of safety and quality. Additionally, I am skilled at managing contracts and negotiations, resolving conflicts between contractors and clients, and guaranteeing adherence to building codes and regulations. My work is capable of meeting even the most challenging expectations. you like what you see and have a project you need, don&apos;t
                   hesitate to contact me.
                 </p>
                 <a href="#contact" className="btn btn-primary">Let&apos;s Talk</a>

@@ -5,7 +5,6 @@
 import React from 'react';
 import Typical from 'react-typical';
 import './Home.css';
-import Resume from '../../assets/Home/Resume.pdf';
 
 function Home() {
   return (
@@ -55,12 +54,6 @@ function Home() {
                   Hi, if you are looking for a skilled and punctual Civil engineer, Quantity Surveyor and Data Collector then you’re reviewing the right profile. Have faith in me and give me a chance to make your project successful!
                 </p>
               </div>
-            </div>
-            <div className="profile-options">
-              <a href={Resume} download>
-                {' '}
-                <button className="btn highlighted-btn">Get Resume </button>
-              </a>
             </div>
           </div>
           <div className="profile-picture">

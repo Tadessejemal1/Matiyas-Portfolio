@@ -64,7 +64,7 @@ const Services = () => (
       </article>
       <article className="servies">
         <div className="servies-head">
-          <h1>Data Collection</h1>
+          <h1>Data Collector</h1>
         </div>
         <ul className="servies-list">
           <li>
