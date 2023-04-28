@@ -37,7 +37,7 @@
 
 .small_screen {
   cursor: pointer;
-  margin-right: 0.75rem;
+  margin-right: 1.05rem;
 }
 
 .app__navbar-smallscreen {
@@ -60,11 +60,11 @@
 }
 
 .app__navbar-smallscren_overlay .overlay__close {
-  font-size: 27px;
+  font-size: 29px;
   color: var(--color-golden);
   cursor: pointer;
   position: absolute;
-  top: 20px;
+  top: 24px;
   right: 20px;
 }
 
@@ -119,5 +119,9 @@
 
   .app__navbar-smallscreen {
     display: flex;
+  }
+
+  .app__navbar-smallscreen-links {
+    padding-top: 80px;
   }
 }
