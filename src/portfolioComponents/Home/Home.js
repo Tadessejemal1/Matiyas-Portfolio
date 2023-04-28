@@ -24,7 +24,6 @@ function Home() {
             </div>
             <div className="profile-detail-name">
               <span className="primary-text">
-
                 Hello, I&apos;m
                 {' '}
                 <span className="highlighted-text">Matiyas Yenew</span>
@@ -32,7 +31,7 @@ function Home() {
             </div>
             <div className="profile-detail-role">
               <span className="primary-text" />
-              <h2>
+              <h4>
                 <Typical
                   loop={Infinity}
                   steps={[
@@ -48,7 +47,7 @@ function Home() {
                     1000,
                   ]}
                 />
-              </h2>
+              </h4>
               <div className="profile-role-tagline">
                 <p className="card-text">
                   Hi, if you are looking for a skilled and punctual Civil engineer, Quantity Surveyor and Data Collector then you’re reviewing the right profile. Have faith in me and give me a chance to make your project successful!

@@ -208,3 +208,41 @@
     padding-left: 120px;
   }
 }
+
+@media screen and (max-width: 475px) {
+  .profile-picture {
+    height: 280px;
+    width: 280px;
+    margin: 0 0 0 60px;
+  }
+
+  .profile-container {
+    padding-top: 90px;
+  }
+
+  .profile-details-role h1 {
+    font-size: 18px;
+    padding-top: 5px;
+  }
+
+  .card-text {
+    position: relative;
+    margin-top: 12px;
+    width: 95%;
+    height: 123px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .element {
+    padding-top: 310px;
+  }
+
+  .profile-detail {
+    margin: 12px 0 0;
+    width: 90%;
+  }
+}

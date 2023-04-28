@@ -198,7 +198,7 @@ function About() {
                     </h3>
                     <h4 className="timeline-title">Lecturer</h4>
                     <p className="timeline-text">
-                      I have four year&apos;s of work experience as a Lecturer at Debre Tabor University in the Civil Engineering Department.
+                      I have four years of work experience as a Lecturer at Debre Tabor University in the Civil Engineering Department.
                       {' '}
                       <br />
                     </p>
